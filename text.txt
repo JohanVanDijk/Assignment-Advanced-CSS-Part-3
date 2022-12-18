@@ -1,0 +1,15 @@
+<a href="#" class="blog"><i class="fa fa-laptop-code"></i></a>
+<a href="#" class="github"><i class="fa fa-github"></i></a>
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    &:hover{
+        opacity: 0.5;
+    }
+}
